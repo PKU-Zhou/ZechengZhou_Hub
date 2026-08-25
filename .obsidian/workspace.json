@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "21c6f48b87ea04f1",
+        "id": "158a3daa19081412",
         "type": "tabs",
         "children": [
           {
-            "id": "5829aacb30782a14",
+            "id": "4ba9607dc47c10a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "欢迎.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "欢迎"
             }
           }
         ]
@@ -75,8 +79,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "欢迎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "欢迎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "欢迎.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -195,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -215,10 +221,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5829aacb30782a14",
+  "active": "a5d80df8b76f40d3",
   "lastOpenFiles": [
-    "未命名.base",
+    "每日记录/2026-08-25.md",
     "欢迎.md",
+    "每日记录",
+    "未命名.base",
     "未命名.canvas"
   ]
 }
