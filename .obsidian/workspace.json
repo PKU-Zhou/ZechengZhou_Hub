@@ -13,15 +13,142 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Daily/2026-08-25.md",
+                "file": "大纲.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-25"
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "92a4229ede68d308",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Area/数字IC前端知识与技能/01 基于Verilog或SystemVerilog的RTL设计.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 基于Verilog或SystemVerilog的RTL设计"
+            }
+          },
+          {
+            "id": "e4180b72e737c8a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Area/数字IC后端知识与技能/000 后端基础知识.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "000 后端基础知识"
+            }
+          },
+          {
+            "id": "39ec11124c72a77f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Area/数字IC前端知识与技能/03 基于DC的综合.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 基于DC的综合"
+            }
+          },
+          {
+            "id": "f23cfd74910f2cca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Area/数字IC前端知识与技能/03 基于DC的综合.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 基于DC的综合"
+            }
+          },
+          {
+            "id": "4775c72ddb9059b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Area/数字IC后端知识与技能/000 后端基础知识.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "000 后端基础知识"
+            }
+          },
+          {
+            "id": "72c07290f4e668ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Area/数字IC后端知识与技能/06 Signoff.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06 Signoff"
+            }
+          },
+          {
+            "id": "6eb2ce95ce283c14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Area/数字IC后端知识与技能/00 Init.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 Init"
+            }
+          },
+          {
+            "id": "92630affeab1421b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Area/常用命令/Makefile.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Makefile"
+            }
+          },
+          {
+            "id": "6cd63bc551be55cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Area/数字IC后端知识与技能/000 后端基础知识.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "000 后端基础知识"
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -221,18 +348,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "443c97c1c9083b2e",
+  "active": "6cd63bc551be55cf",
   "lastOpenFiles": [
+    "02_Area/GPU架构与CUDA编程/01 GPU编程入门.md",
+    "02_Area/GPU架构与CUDA编程/00 认识GPU.md",
+    "02_Area/常用命令/Makefile.md",
+    "02_Area/常用命令/Linux 服务器.md",
+    "02_Area/常用命令/Git与GitHub.md",
+    "05 Route.md",
+    "02_Area/数字IC后端知识与技能/00 Init.md",
+    "02_Area/数字IC后端知识与技能/06 Signoff.md",
+    "02_Area/数字IC后端知识与技能/05 Route.md",
+    "02_Area/数字IC后端知识与技能/04 CTS.md",
+    "02_Area/数字IC后端知识与技能/02 Placement.md",
+    "02_Area/数字IC后端知识与技能/03 PowerPlan.md",
+    "02_Area/数字IC后端知识与技能/01 FloorPlan.md",
+    "02_Area/数字IC后端知识与技能/000 后端基础知识.md",
+    "未命名",
+    "02_Area/数字IC前端知识与技能/03 基于DC的综合.md",
+    "02_Area/数字IC前端知识与技能/02 基于VCS和Verdi的仿真.md",
+    "02_Area/数字IC前端知识与技能/01 基于Verilog或SystemVerilog的RTL设计.md",
+    "02_Area/数字IC前端知识与技能/未命名",
     "大纲.md",
+    "00_Daily/2026-08-25.md",
+    "02_Area/常用命令",
+    "02_Area/数字IC后端知识与技能",
+    "02_Area/数字IC前端知识与技能",
+    "02_Area/数字IC技能",
+    "02_Area/流片",
+    "02_Area/GPU架构与CUDA编程",
     "Daily.md",
     "04_Archives",
     "创建链接.md",
     "02_Area",
-    "03_Resource",
-    "01_Project",
-    "00_Daily/2026-08-25.md",
-    "00_Daily",
-    "未命名.base",
     "未命名.canvas"
   ]
 }
