@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Area/数字IC前端知识与技能/01 基于Verilog或SystemVerilog的RTL设计.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 基于Verilog或SystemVerilog的RTL设计"
+              "title": "README"
             }
           }
         ]
@@ -223,11 +223,12 @@
   },
   "active": "c3862c3f9cc59534",
   "lastOpenFiles": [
+    "大纲.md",
+    "README.md",
+    "02_Area/数字IC前端知识与技能/01 基于Verilog或SystemVerilog的RTL设计.md",
     "02_Area/数字IC前端知识与技能/02 基于VCS和Verdi的仿真.md",
     "02_Area/数字IC前端知识与技能/01.1 使用MemoryCompiler生成SRAM.md",
     "Assets/Pasted image 20260825154621.png",
-    "02_Area/数字IC前端知识与技能/01 基于Verilog或SystemVerilog的RTL设计.md",
-    "大纲.md",
     "Assets/Pasted image 20260825162928.png",
     "Assets",
     "Assets/Pasted image 20260825162350.png",
