@@ -112,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.44355010986328
+    "width": 347.10003662109375
   },
   "right": {
     "id": "bd3e84f0778db0b5",
@@ -210,16 +210,6 @@
             }
           },
           {
-            "id": "443c97c1c9083b2e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "d529ccd96039ec77",
             "type": "leaf",
             "state": {
@@ -228,9 +218,19 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "6c94148b2e6d6747",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -250,7 +250,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "443c97c1c9083b2e",
+  "active": "f79f7fcd21213654",
   "lastOpenFiles": [
     "Pasted image 20260825230539.png",
     "04_Archives/开源NPU_RTL仓库调研.md",
