@@ -234,7 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 388.45849609375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,7 +250,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f79f7fcd21213654",
+  "active": "443c97c1c9083b2e",
   "lastOpenFiles": [
     "Pasted image 20260825230539.png",
     "04_Archives/开源NPU_RTL仓库调研.md",
