@@ -31,7 +31,7 @@
   "drawingEmbedPrefixWithFilename": true,
   "drawingFilnameEmbedPostfix": " ",
   "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
-  "useExcalidrawExtension": true,
+  "useExcalidrawExtension": false,
   "cropSuffix": "",
   "cropPrefix": "cropped_",
   "annotateSuffix": "",
@@ -65,7 +65,7 @@
   "panWithRightMouseButton": false,
   "renderImageInMarkdownReadingMode": false,
   "renderImageInHoverPreviewForMDNotes": false,
-  "renderImageInMarkdownToPDF": false,
+  "renderImageInMarkdownToPDF": true,
   "allowPinchZoom": false,
   "allowWheelZoom": false,
   "zoomToFitOnOpen": true,
@@ -98,8 +98,8 @@
   "exportWithBackground": true,
   "exportPaddingSVG": 10,
   "exportEmbedScene": false,
-  "keepInSync": false,
-  "autoexportSVG": false,
+  "keepInSync": true,
+  "autoexportSVG": true,
   "autoexportPNG": false,
   "autoExportLightAndDark": false,
   "autoexportExcalidraw": false,
@@ -1036,7 +1036,7 @@
         "rules": [
           {
             "shift": false,
-            "ctrl_cmd": false,
+            "ctrl_cmd": true,
             "alt_opt": false,
             "meta_ctrl": false,
             "result": "active-pane"

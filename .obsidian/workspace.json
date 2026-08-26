@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "05f07bc7791629f5",
+        "id": "1449bfcfb7dd82ec",
         "type": "tabs",
         "children": [
           {
-            "id": "c3862c3f9cc59534",
+            "id": "19156965b4a0427b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Area/数字IC前端知识与技能/03 基于DC的综合.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 基于DC的综合"
+            }
+          },
+          {
+            "id": "418fdd3973eaa33b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +34,23 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "f79f7fcd21213654",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Area/数字IC前端知识与技能/01.2 使用DesignWare中提供的模块.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01.2 使用DesignWare中提供的模块"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.44355010986328
+    "width": 347.10003662109375
   },
   "right": {
     "id": "bd3e84f0778db0b5",
@@ -181,16 +210,6 @@
             }
           },
           {
-            "id": "443c97c1c9083b2e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "d529ccd96039ec77",
             "type": "leaf",
             "state": {
@@ -199,13 +218,23 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "6c94148b2e6d6747",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 388.45849609375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,50 +250,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3862c3f9cc59534",
+  "active": "f79f7fcd21213654",
   "lastOpenFiles": [
-    "大纲.md",
-    "README.md",
+    "Pasted image 20260825230539.png",
+    "04_Archives/开源NPU_RTL仓库调研.md",
+    "01_Project/NVDLA_260905/项目简介.md",
+    "02_Area/常用命令/Git与GitHub.md",
+    "02_Area/常用命令/Linux 服务器.md",
+    "Pasted image 20260825201352.png",
+    "Pasted image 20260825195654.png",
+    "Pasted image 20260825192704.png",
     "02_Area/数字IC前端知识与技能/01 基于Verilog或SystemVerilog的RTL设计.md",
+    "Pasted image 20260825190516.png",
+    "README.md",
+    "01_Project/NVDLA_260905",
+    "02_Area/硬件架构基础/总线协议.md",
+    "02_Area/硬件架构基础/CPU.md",
+    "02_Area/硬件架构基础/DRAM与Flash.md",
+    "02_Area/硬件架构基础/JTAG与UART.md",
+    "02_Area/GPU架构与CUDA编程/00 认识GPU.md",
+    "02_Area/硬件架构/DRAM和Flash",
+    "02_Area/数字IC前端知识与技能/03 基于DC的综合.md",
+    "02_Area/硬件架构基础",
+    "CPU、总线和DRAM.md",
     "02_Area/数字IC前端知识与技能/02 基于VCS和Verdi的仿真.md",
+    "02_Area/数字IC前端知识与技能/01.2 使用DesignWare中提供的模块.md",
     "02_Area/数字IC前端知识与技能/01.1 使用MemoryCompiler生成SRAM.md",
+    "02_Area/数字IC前端知识与技能/00 基础知识.md",
+    "02_Area/GPU架构与CUDA编程/01 GPU编程入门.md",
+    "02_Area/数字IC后端知识与技能/000 后端基础知识.md",
+    "02_Area/数字IC前端知识与技能/03.1 Formality检查.md",
+    "未命名.base",
+    "未命名 1.base",
+    "02_Area/数字IC后端知识与技能/01 FloorPlan.md",
+    "02_Area/数字IC后端知识与技能/02 Placement.md",
+    "02_Area/数字IC后端知识与技能/03 PowerPlan.md",
+    "02_Area/数字IC后端知识与技能/05 Route.md",
+    "02_Area/数字IC后端知识与技能/04 CTS.md",
+    "Excalidraw/Drawing 2026-08-25 16.43.54.excalidraw.svg",
+    "Excalidraw",
     "Assets/Pasted image 20260825154621.png",
     "Assets/Pasted image 20260825162928.png",
     "Assets",
     "Assets/Pasted image 20260825162350.png",
     "Assets/Pasted image 20260825162049.png",
     "Assets/Pasted image 20260825161843.png",
-    "Assets/Pasted image 20260825161242.png",
-    "Assets/Pasted image 20260825161226.png",
-    "Assets/Pasted image 20260825161149.png",
-    "Assets/Pasted image 20260825161014.png",
-    "02_Area/常用命令/Git与GitHub.md",
-    "00_Daily/2026-08-25.md",
-    "02_Area/数字IC后端知识与技能/000 后端基础知识.md",
-    "02_Area/常用命令/Makefile.md",
-    "02_Area/数字IC后端知识与技能/00 Init.md",
-    "02_Area/数字IC后端知识与技能/06 Signoff.md",
-    "02_Area/数字IC前端知识与技能/03 基于DC的综合.md",
-    "02_Area/GPU架构与CUDA编程/01 GPU编程入门.md",
-    "02_Area/GPU架构与CUDA编程/00 认识GPU.md",
-    "02_Area/常用命令/Linux 服务器.md",
-    "05 Route.md",
-    "02_Area/数字IC后端知识与技能/05 Route.md",
-    "02_Area/数字IC后端知识与技能/04 CTS.md",
-    "02_Area/数字IC后端知识与技能/02 Placement.md",
-    "02_Area/数字IC后端知识与技能/03 PowerPlan.md",
-    "02_Area/数字IC后端知识与技能/01 FloorPlan.md",
     "02_Area/数字IC前端知识与技能/未命名",
     "02_Area/常用命令",
     "02_Area/数字IC后端知识与技能",
-    "02_Area/数字IC前端知识与技能",
-    "02_Area/数字IC技能",
-    "02_Area/流片",
-    "02_Area/GPU架构与CUDA编程",
-    "Daily.md",
-    "04_Archives",
-    "创建链接.md",
-    "02_Area",
     "未命名.canvas"
   ]
 }
