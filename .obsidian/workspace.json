@@ -220,7 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.70001220703125
+    "width": 369.21197509765625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,7 +236,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "328e3b2add6a692a",
+  "active": "6c94148b2e6d6747",
   "lastOpenFiles": [
     "00_Daily/2026-08-27.md",
     "02_Area/数字IC前端知识与技能/03 基于DC的综合.md",
