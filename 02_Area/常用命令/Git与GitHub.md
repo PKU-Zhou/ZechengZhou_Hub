@@ -30,18 +30,8 @@ eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/id_rsa
  ```
  
-5. 配置IDE中的ssh config文件
-不使用默认的22端口
-```bash
-Host github.com
-    HostName ssh.github.com
-    User git
-    Port 445
-    IdentityFile ~/.ssh/id_rsa
-    IdentitiesOnly yes
-    ProxyCommand nc -X 5 -x 127.0.0.1:20000 %h %p
-```
-6. 验证是否添加成功
+
+5. 验证是否添加成功
 ```bash
 ssh -T git@github.com
 ```
