@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Area/常用命令/Git与GitHub.md",
+                "file": "00_Daily/2026-09-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git与GitHub"
+              "title": "2026-09-05"
             }
           }
         ],
@@ -248,7 +248,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 363.0999755859375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,16 +264,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eebbd2e2a49a7aa0",
+  "active": "6c94148b2e6d6747",
   "lastOpenFiles": [
+    "00_Daily/2026-09-04.md",
+    "00_Daily/2026-09-03.md",
+    "00_Daily/2026-09-05.md",
+    "00_Daily/2026-09-02.md",
+    "02_Area/人工智能算法学习/强化学习/A2C算法详解.md",
+    "02_Area/人工智能算法学习/强化学习/强化学习基本概念.md",
+    "02_Area/人工智能算法学习/强化学习/PD（policy gradient）.md",
     "00_Daily/2026-09-01.md",
+    "02_Area/常用命令/Git与GitHub.md",
     "00_Daily/2026-08-31.md",
     "00_Daily/2026-08-27.md",
-    "02_Area/常用命令/Git与GitHub.md",
-    "02_Area/人工智能算法学习/强化学习/PD（policy gradient）.md",
-    "02_Area/人工智能算法学习/强化学习/A2C算法详解.md",
     "PD（policy gradient）.md",
-    "02_Area/人工智能算法学习/强化学习/强化学习基本概念.md",
     "02_Area/数字IC前端知识与技能/03 基于DC的综合.md",
     "02_Area/数字IC前端知识与技能/01.2 使用DesignWare中提供的模块.md",
     "01_Project/NVDLA_260905/项目简介.md",
@@ -296,12 +300,8 @@
     "02_Area/硬件架构基础/总线协议.md",
     "02_Area/硬件架构基础/CPU.md",
     "02_Area/硬件架构基础/DRAM与Flash.md",
-    "02_Area/硬件架构基础/JTAG与UART.md",
-    "02_Area/GPU架构与CUDA编程/00 认识GPU.md",
     "02_Area/硬件架构/DRAM和Flash",
     "02_Area/硬件架构基础",
-    "CPU、总线和DRAM.md",
-    "02_Area/数字IC前端知识与技能/02 基于VCS和Verdi的仿真.md",
     "未命名.base",
     "未命名 1.base",
     "Excalidraw/Drawing 2026-08-25 16.43.54.excalidraw.svg",
