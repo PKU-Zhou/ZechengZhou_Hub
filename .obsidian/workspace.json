@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1449bfcfb7dd82ec",
+        "id": "5b96e406781faa97",
         "type": "tabs",
         "children": [
           {
-            "id": "f79f7fcd21213654",
+            "id": "6c3b196ef7b7d6dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Daily/2026-08-27.md",
+                "file": "02_Area/数字IC前端知识与技能/00.1 AXI总线协议.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-27"
-            }
-          },
-          {
-            "id": "328e3b2add6a692a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Area/人工智能算法学习/强化学习/强化学习基本概念.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "强化学习基本概念"
-            }
-          },
-          {
-            "id": "64efbd9a42615e45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Area/人工智能算法学习/强化学习/A2C算法详解.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A2C算法详解"
-            }
-          },
-          {
-            "id": "eebbd2e2a49a7aa0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Daily/2026-09-05.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-09-05"
+              "title": "00.1 AXI总线协议"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 299.10003662109375
   },
   "right": {
     "id": "bd3e84f0778db0b5",
@@ -142,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
+                "file": "01_Project/智能计算系统编程与优化/20260909-智能计算系统基本概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎.md",
+                "file": "01_Project/智能计算系统编程与优化/20260909-智能计算系统基本概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -204,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
+                "file": "02_Area/数字IC前端知识与技能/00.1 AXI总线协议.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -234,7 +191,7 @@
             }
           },
           {
-            "id": "6c94148b2e6d6747",
+            "id": "15b3a311753d7b99",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -248,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.0999755859375
+    "width": 314.70001220703125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,54 +221,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c94148b2e6d6747",
+  "active": "15b3a311753d7b99",
   "lastOpenFiles": [
-    "00_Daily/2026-09-04.md",
-    "00_Daily/2026-09-03.md",
-    "00_Daily/2026-09-05.md",
-    "00_Daily/2026-09-02.md",
-    "02_Area/人工智能算法学习/强化学习/A2C算法详解.md",
-    "02_Area/人工智能算法学习/强化学习/强化学习基本概念.md",
-    "02_Area/人工智能算法学习/强化学习/PD（policy gradient）.md",
-    "00_Daily/2026-09-01.md",
-    "02_Area/常用命令/Git与GitHub.md",
-    "00_Daily/2026-08-31.md",
-    "00_Daily/2026-08-27.md",
-    "PD（policy gradient）.md",
-    "02_Area/数字IC前端知识与技能/03 基于DC的综合.md",
-    "02_Area/数字IC前端知识与技能/01.2 使用DesignWare中提供的模块.md",
+    "Pasted image 20261027192054.png",
+    "Pasted image 20261027191703.png",
+    "Pasted image 20261027190115.png",
+    "Pasted image 20261027185940.png",
+    "Pasted image 20261027185918.png",
+    "Pasted image 20261027185847.png",
+    "Pasted image 20261027184827.png",
+    "Excalidraw/Drawing 2026-10-27 18.36.44.md",
+    "Excalidraw/Drawing 2026-10-27 18.36.44.svg",
+    "02_Area/数字IC前端知识与技能/00.1 AXI总线协议.md",
+    "02_Area/数字IC前端知识与技能/00 基础知识.md",
+    "00_Daily/2026-10-25.md",
+    "00_Daily/2026-10-23.md",
+    "00_Daily/2026-10-22.md",
+    "00_Daily/2026-10-21.md",
+    "00_Daily/2026-10-20.md",
+    "00_Daily/2026-10-19.md",
+    "01_Project/智能计算系统编程与优化/20260930-深入 GPU架构机制与优化.md",
+    "Excalidraw/Drawing 2026-09-30 10.19.55.md",
+    "Excalidraw/Drawing 2026-09-30 10.19.55.svg",
+    "01_Project/智能计算系统编程与优化/20260923-GPU编程.md",
+    "2026-09-23.md",
     "01_Project/NVDLA_260905/项目简介.md",
+    "01_Project/智能计算系统编程与优化/20260909-智能计算系统基本概念.md",
+    "未命名",
+    "02_Area/人工智能算法学习/强化学习/A2C算法详解.md",
+    "02_Area/常用命令/Git与GitHub.md",
+    "02_Area/常用命令/Linux 服务器.md",
+    "02_Area/常用命令/Makefile.md",
+    "00_Daily/2026-09-05.md",
+    "00_Daily/2026-09-08.md",
+    "00_Daily/2026-09-09.md",
+    "00_Daily/2026-09-07.md",
+    "00_Daily/2026-09-15.md",
+    "02_Area/人工智能算法学习/强化学习/PD（policy gradient）.md",
+    "Excalidraw/Drawing 2026-08-25 16.43.54.excalidraw.svg",
+    "01_Project/智能计算系统编程与优化",
     "02_Area/人工智能算法学习/强化学习",
     "02_Area/人工智能算法学习",
-    "00_Daily/2026-08-26.md",
-    "02_Area/数字IC前端知识与技能/01 基于Verilog或SystemVerilog的RTL设计.md",
-    "02_Area/数字IC前端知识与技能/01.1 使用MemoryCompiler生成SRAM.md",
-    "00_Daily/2026-08-25.md",
     "Assets/Pasted image 20260825230539.png",
-    "20.md",
-    "README.md",
-    "04_Archives/开源NPU_RTL仓库调研.md",
-    "02_Area/常用命令/Linux 服务器.md",
-    "Assets/Pasted image 20260825201352.png",
-    "Assets/Pasted image 20260825195654.png",
-    "Assets/Pasted image 20260825192704.png",
-    "Assets/Pasted image 20260825190516.png",
     "01_Project/NVDLA_260905",
-    "02_Area/硬件架构基础/总线协议.md",
-    "02_Area/硬件架构基础/CPU.md",
-    "02_Area/硬件架构基础/DRAM与Flash.md",
     "02_Area/硬件架构/DRAM和Flash",
     "02_Area/硬件架构基础",
     "未命名.base",
     "未命名 1.base",
-    "Excalidraw/Drawing 2026-08-25 16.43.54.excalidraw.svg",
     "Excalidraw",
-    "Assets/Pasted image 20260825154621.png",
-    "Assets/Pasted image 20260825162928.png",
-    "Assets",
-    "Assets/Pasted image 20260825162350.png",
-    "Assets/Pasted image 20260825162049.png",
-    "02_Area/数字IC前端知识与技能/未命名",
     "未命名.canvas"
   ]
 }
