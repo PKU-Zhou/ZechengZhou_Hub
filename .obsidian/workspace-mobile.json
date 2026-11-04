@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Area/数字IC前端知识与技能/01 基于Verilog或SystemVerilog的RTL设计.md",
+                "file": "01_Project/智能计算系统编程与优化/20261104-自学1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 基于Verilog或SystemVerilog的RTL设计"
+              "title": "20261104-自学1"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "dd05a7eaed863cc7",
   "lastOpenFiles": [
-    "Assets/Pasted image 20260825161242.png",
     "02_Area/数字IC前端知识与技能/01 基于Verilog或SystemVerilog的RTL设计.md",
+    "Excalidraw/Drawing 2026-11-04 13.23.24.md",
+    "Assets/Pasted image 20260825161242.png",
     "00_Daily/2026-11-03.md",
     "01_Project/智能计算系统编程与优化/20260930-深入 GPU架构机制与优化.md",
     "01_Project/智能计算系统编程与优化/20261104-自学1.md",
