@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f9e0d3a082c534c9",
+        "id": "76417fb3042fe847",
         "type": "tabs",
         "children": [
           {
-            "id": "e4910712aadcba77",
+            "id": "825d4c7b1e5f6a4a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01_Project/智能计算系统编程与优化/20261104-自学1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "20261104-自学1"
             }
           }
         ]
@@ -157,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Untitled Diagram.svg",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -212,18 +217,22 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "15b3a311753d7b99",
+  "active": "825d4c7b1e5f6a4a",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-11-04 13.23.24.svg",
+    "Excalidraw/Drawing 2026-11-04 13.23.24.md",
+    "01_Project/智能计算系统编程与优化/20261104-自学1.md",
+    "Excalidraw",
+    "Untitled Diagram.svg",
+    "Excalidraw/Drawing 2026-08-25 16.43.54.excalidraw.md",
+    "Excalidraw/Drawing 2026-08-25 16.43.54.excalidraw.svg",
     "Excalidraw/Drawing 2026-11-04 12.52.25.md",
     "Excalidraw/Drawing 2026-11-04 12.52.25.svg",
-    "Excalidraw/Drawing 2026-08-25 16.43.54.excalidraw.svg",
-    "01_Project/智能计算系统编程与优化/20261104-自学1.md",
     "01_Project/智能计算系统编程与优化/20261028.md",
-    "Excalidraw/Drawing 2026-08-25 16.43.54.excalidraw.md",
     "README.md",
     "Excalidraw/Drawing 2026-09-30 10.19.55.md",
     "01_Project/智能计算系统编程与优化/20260930-深入 GPU架构机制与优化.md",
@@ -249,11 +258,8 @@
     "02_Area/数字IC前端知识与技能/03.1 Formality检查.md",
     "02_Area/数字IC后端知识与技能/000 后端基础知识.md",
     "02_Area/数字IC后端知识与技能/00 Init.md",
-    "02_Area/数字IC后端知识与技能/06 Signoff.md",
     "03_Resource/论文精读",
     "Assets/Pasted image 20261030234658.png",
-    "Assets/Pasted image 20261029225342.png",
-    "Assets/Pasted image 20261030233837.png",
     "02_Area/具身",
     "03_Resource/论文调研",
     "03_Resource/Papers/dac26_zebin_yang.pdf",
@@ -262,7 +268,6 @@
     "03_Resource/Papers",
     "01_Project/智能计算系统编程与优化",
     "02_Area/人工智能算法学习/强化学习",
-    "02_Area/人工智能算法学习",
     "未命名.canvas"
   ]
 }
