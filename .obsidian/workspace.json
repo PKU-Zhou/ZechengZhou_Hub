@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c8991575b320ec01",
+        "id": "0830e058b698d1cd",
         "type": "tabs",
         "children": [
           {
-            "id": "bfd6fbb5b252883f",
+            "id": "a359c6cd405601fa",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Pasted image 20261104134823.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20261104134823"
-            }
-          },
-          {
-            "id": "932a0a1fe8ea98f6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Pasted image 20261104135019.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20261104135019"
-            }
-          },
-          {
-            "id": "40b25c4fe738143b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Pasted image 20261104134823.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20261104134823"
-            }
-          },
-          {
-            "id": "82f7f039756508b8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Pasted image 20261104134823.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20261104134823"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,13 +217,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a5d80df8b76f40d3",
+  "active": "a359c6cd405601fa",
   "lastOpenFiles": [
-    "Assets/Pasted image 20261104135019.png",
     "Assets/Pasted image 20261104134823.png",
-    "Excalidraw/Drawing 2026-11-04 17.26.57.md",
-    "01_Project/智能计算系统编程与优化/20261104-自学1.md",
+    "Assets/Pasted image 20261104135019.png",
     "01_Project/智能计算系统编程与优化/LeetGPU刷题记录.md",
+    "01_Project/智能计算系统编程与优化/20261104-自学1.md",
+    "Excalidraw/Drawing 2026-11-04 17.26.57.md",
     "Excalidraw/Drawing 2026-11-04 14.26.48.md",
     "Excalidraw/Drawing 2026-11-04 14.26.48.svg",
     "Excalidraw/Drawing 2026-11-04 14.00.38.svg",
