@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0830e058b698d1cd",
+        "id": "636772a44db0348d",
         "type": "tabs",
         "children": [
           {
-            "id": "a359c6cd405601fa",
+            "id": "18c21de81ac8b39a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02_Area/芯片测试/00 流程.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "00 流程"
             }
           }
         ]
@@ -79,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.8333396911621
+    "width": 230.1400146484375
   },
   "right": {
     "id": "bd3e84f0778db0b5",
@@ -217,12 +221,26 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a359c6cd405601fa",
+  "active": "18c21de81ac8b39a",
   "lastOpenFiles": [
-    "Assets/Pasted image 20261104134823.png",
-    "Assets/Pasted image 20261104135019.png",
+    "02_Area/芯片测试/01 Altium Designer使用教程.md",
+    "02_Area/芯片测试/00 流程.md",
+    "Excalidraw/Drawing 2026-11-05 18.59.03.md",
+    "02_Area/芯片测试/02 封装.md",
+    "Excalidraw/Drawing 2026-11-05 18.59.03.svg",
+    "Pasted image 20261106150135.png",
+    "Pasted image 20261106150131.png",
+    "Pasted image 20261105142151.png",
+    "03_Resource/论文调研/KV压缩相关.md",
+    "03_Resource/论文调研/lmx VLSI'26.md",
+    "03_Resource/论文调研/RAG相关.md",
+    "03_Resource/论文调研/VLM具身规划+RAG记忆.md",
+    "PCB 测试板.md",
+    "02_Area/芯片测试",
     "01_Project/智能计算系统编程与优化/LeetGPU刷题记录.md",
     "01_Project/智能计算系统编程与优化/20261104-自学1.md",
+    "Assets/Pasted image 20261104134823.png",
+    "Assets/Pasted image 20261104135019.png",
     "Excalidraw/Drawing 2026-11-04 17.26.57.md",
     "Excalidraw/Drawing 2026-11-04 14.26.48.md",
     "Excalidraw/Drawing 2026-11-04 14.26.48.svg",
@@ -234,9 +252,7 @@
     "Excalidraw",
     "Untitled Diagram.svg",
     "Excalidraw/Drawing 2026-08-25 16.43.54.excalidraw.md",
-    "Excalidraw/Drawing 2026-08-25 16.43.54.excalidraw.svg",
     "Excalidraw/Drawing 2026-11-04 12.52.25.md",
-    "Excalidraw/Drawing 2026-11-04 12.52.25.svg",
     "01_Project/智能计算系统编程与优化/20261028.md",
     "README.md",
     "Excalidraw/Drawing 2026-09-30 10.19.55.md",
@@ -244,17 +260,6 @@
     "01_Project/智能计算系统编程与优化/20260923-GPU编程.md",
     "01_Project/智能计算系统编程与优化/20260916-性能分析和roofline模型.md",
     "01_Project/智能计算系统编程与优化/20260909-智能计算系统基本概念.md",
-    "Excalidraw/Drawing 2026-09-30 10.19.55.svg",
-    "Excalidraw/Drawing 2026-10-27 18.36.44.md",
-    "Excalidraw/Drawing 2026-10-27 18.36.44.svg",
-    "Excalidraw/Drawing 2026-11-04 10.48.28.md",
-    "03_Resource/论文调研/lmx VLSI'26.md",
-    "03_Resource/论文调研/KV压缩相关.md",
-    "03_Resource/论文调研/RAG相关.md",
-    "03_Resource/论文调研/VLM具身规划+RAG记忆.md",
-    "00_Daily/2026-11-03.md",
-    "00_Daily/2026-10-29.md",
-    "00_Daily/2026-10-25.md",
     "03_Resource/论文精读",
     "02_Area/具身",
     "03_Resource/论文调研",
@@ -263,7 +268,6 @@
     "03_Resource/Books",
     "03_Resource/Papers",
     "01_Project/智能计算系统编程与优化",
-    "02_Area/人工智能算法学习/强化学习",
     "未命名.canvas"
   ]
 }
