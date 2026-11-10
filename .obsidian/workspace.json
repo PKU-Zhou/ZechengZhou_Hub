@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4867beac42936f62",
+        "id": "beb7e1d19d2c4538",
         "type": "tabs",
         "children": [
           {
-            "id": "bc24466e736e27dc",
+            "id": "6b5c96e10c5dcc43",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "02_Area/芯片测试/00 流程.md",
-                "bFile": "02_Area/芯片测试/00 流程.md",
-                "aRef": ""
+                "file": "02_Area/GPU架构与CUDA编程/01 GPU编程入门.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 00 流程  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "01 GPU编程入门"
             }
           }
         ]
@@ -221,11 +221,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "bc24466e736e27dc",
+  "active": "6b5c96e10c5dcc43",
   "lastOpenFiles": [
-    "Pasted image 20261108153426.png",
-    "Pasted image 20261106150135.png",
-    "Pasted image 20261106150131.png",
+    "02_Area/GPU架构与CUDA编程/LeetGPU刷题记录.md",
+    "Excalidraw/Drawing 2026-11-11 03.03.06.svg",
+    "Excalidraw/Drawing 2026-11-11 03.03.06.md",
+    "02_Area/GPU架构与CUDA编程/01 GPU编程入门.md",
+    "Excalidraw/Drawing 2026-11-11 02.25.57.md",
+    "Excalidraw/Drawing 2026-11-11 02.25.57.svg",
+    "02_Area/GPU架构与CUDA编程/00 基础概念（20261104-自学1）.md",
+    "02_Area/GPU架构与CUDA编程/00 认识GPU.md",
+    "Assets/Pasted image 20261106150131.png",
+    "Assets/Pasted image 20261108153426.png",
+    "Assets/Pasted image 20261106150135.png",
     "02_Area/芯片测试/00 流程.md",
     "02_Area/芯片测试/01 Altium Designer使用教程.md",
     "Excalidraw/Drawing 2026-11-05 18.59.03.md",
@@ -238,16 +246,12 @@
     "03_Resource/论文调研/VLM具身规划+RAG记忆.md",
     "PCB 测试板.md",
     "02_Area/芯片测试",
-    "01_Project/智能计算系统编程与优化/LeetGPU刷题记录.md",
-    "01_Project/智能计算系统编程与优化/20261104-自学1.md",
     "Assets/Pasted image 20261104134823.png",
     "Assets/Pasted image 20261104135019.png",
     "Excalidraw/Drawing 2026-11-04 17.26.57.md",
     "Excalidraw/Drawing 2026-11-04 14.26.48.md",
     "Excalidraw/Drawing 2026-11-04 14.26.48.svg",
-    "Excalidraw/Drawing 2026-11-04 14.00.38.svg",
     "Excalidraw/Drawing 2026-11-04 14.00.38.md",
-    "Excalidraw/Drawing 2026-11-04 13.23.24.svg",
     "Excalidraw/Drawing 2026-11-04 13.36.25.md",
     "Excalidraw/Drawing 2026-11-04 13.23.24.md",
     "Excalidraw",
@@ -256,10 +260,6 @@
     "01_Project/智能计算系统编程与优化/20261028.md",
     "README.md",
     "Excalidraw/Drawing 2026-09-30 10.19.55.md",
-    "01_Project/智能计算系统编程与优化/20260930-深入 GPU架构机制与优化.md",
-    "01_Project/智能计算系统编程与优化/20260923-GPU编程.md",
-    "01_Project/智能计算系统编程与优化/20260916-性能分析和roofline模型.md",
-    "01_Project/智能计算系统编程与优化/20260909-智能计算系统基本概念.md",
     "03_Resource/论文精读",
     "02_Area/具身",
     "03_Resource/论文调研",
