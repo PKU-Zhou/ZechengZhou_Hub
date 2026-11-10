@@ -7,3 +7,9 @@
 
 
 ![[Pasted image 20261106150135.png]]
+
+
+
+1. 先画schlib和pcblib
+
+2. 
