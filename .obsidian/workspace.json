@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Area/芯片测试/00 流程.md",
+                "file": "02_Area/芯片测试/01 Altium Designer使用教程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 流程"
+              "title": "01 Altium Designer使用教程"
             }
           }
         ]
@@ -221,12 +221,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "18c21de81ac8b39a",
+  "active": "a5d80df8b76f40d3",
   "lastOpenFiles": [
+    "02_Area/芯片测试/02 封装.md",
+    "Pasted image 20261108153426.png",
     "02_Area/芯片测试/01 Altium Designer使用教程.md",
     "02_Area/芯片测试/00 流程.md",
+    "01_Project/智能计算系统编程与优化/LeetGPU刷题记录.md",
+    "01_Project/智能计算系统编程与优化/20261104-自学1.md",
     "Excalidraw/Drawing 2026-11-05 18.59.03.md",
-    "02_Area/芯片测试/02 封装.md",
     "Excalidraw/Drawing 2026-11-05 18.59.03.svg",
     "Pasted image 20261106150135.png",
     "Pasted image 20261106150131.png",
@@ -237,8 +240,6 @@
     "03_Resource/论文调研/VLM具身规划+RAG记忆.md",
     "PCB 测试板.md",
     "02_Area/芯片测试",
-    "01_Project/智能计算系统编程与优化/LeetGPU刷题记录.md",
-    "01_Project/智能计算系统编程与优化/20261104-自学1.md",
     "Assets/Pasted image 20261104134823.png",
     "Assets/Pasted image 20261104135019.png",
     "Excalidraw/Drawing 2026-11-04 17.26.57.md",
@@ -250,7 +251,6 @@
     "Excalidraw/Drawing 2026-11-04 13.36.25.md",
     "Excalidraw/Drawing 2026-11-04 13.23.24.md",
     "Excalidraw",
-    "Untitled Diagram.svg",
     "Excalidraw/Drawing 2026-08-25 16.43.54.excalidraw.md",
     "Excalidraw/Drawing 2026-11-04 12.52.25.md",
     "01_Project/智能计算系统编程与优化/20261028.md",
