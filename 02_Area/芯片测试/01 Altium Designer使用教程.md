@@ -10,6 +10,8 @@
 
 
 
-1. 先画schlib和pcblib
+1. 先建立芯片封装的lib，在其中画好schlib和pcblib
+2. 然后导入schlib到schdoc中，完善schdoc
+3. 最后导入pcblib到pcbdoc中，摆放各种元器件，并走线，检查DRC和LVS
+4. 导出物料，包括PCB裸板的制造资料，和原件等资料
 
-2. 

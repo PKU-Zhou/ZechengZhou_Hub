@@ -11,14 +11,14 @@
             "id": "6b5c96e10c5dcc43",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "02_Area/GPU架构与CUDA编程/01 GPU编程入门.md",
-                "mode": "source",
-                "source": false
+                "aFile": "02_Area/芯片测试/00 流程.md",
+                "bFile": "02_Area/芯片测试/00 流程.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "01 GPU编程入门"
+              "icon": "diff",
+              "title": "Diff: 00 流程  (Working Tree)"
             }
           }
         ]
@@ -221,13 +221,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "15b3a311753d7b99",
+  "active": "6b5c96e10c5dcc43",
   "lastOpenFiles": [
+    "02_Area/芯片测试/01 Altium Designer使用教程.md",
+    "02_Area/芯片测试/00 流程.md",
+    "02_Area/GPU架构与CUDA编程/01 GPU编程入门.md",
     "fig6_why_swap.png",
     "02_Area/GPU架构与CUDA编程/LeetGPU刷题记录.md",
     "Excalidraw/Drawing 2026-11-11 03.03.06.svg",
     "Excalidraw/Drawing 2026-11-11 03.03.06.md",
-    "02_Area/GPU架构与CUDA编程/01 GPU编程入门.md",
     "Excalidraw/Drawing 2026-11-11 02.25.57.md",
     "Excalidraw/Drawing 2026-11-11 02.25.57.svg",
     "02_Area/GPU架构与CUDA编程/00 基础概念（20261104-自学1）.md",
@@ -235,8 +237,6 @@
     "Assets/Pasted image 20261106150131.png",
     "Assets/Pasted image 20261108153426.png",
     "Assets/Pasted image 20261106150135.png",
-    "02_Area/芯片测试/00 流程.md",
-    "02_Area/芯片测试/01 Altium Designer使用教程.md",
     "Excalidraw/Drawing 2026-11-05 18.59.03.md",
     "02_Area/芯片测试/02 封装.md",
     "Excalidraw/Drawing 2026-11-05 18.59.03.svg",
@@ -251,7 +251,6 @@
     "Assets/Pasted image 20261104135019.png",
     "Excalidraw/Drawing 2026-11-04 17.26.57.md",
     "Excalidraw/Drawing 2026-11-04 14.26.48.md",
-    "Excalidraw/Drawing 2026-11-04 14.26.48.svg",
     "Excalidraw/Drawing 2026-11-04 14.00.38.md",
     "Excalidraw/Drawing 2026-11-04 13.36.25.md",
     "Excalidraw/Drawing 2026-11-04 13.23.24.md",
