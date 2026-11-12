@@ -99,7 +99,7 @@ extern "C" void solve(const float* A, const float* B, float* C, int M, int N, in
 实现一运行直接超时，实现二则能够正常完成。
 
 
-### 展开分析
+### 定性分析
 
 循环核心
 ```cpp
@@ -130,3 +130,7 @@ col是threadIdx.x方向，也就是lane维，是连续、快速变化的维度
 
 以上为定性分析，便于记忆。
 根据核心任务的访存特性，优先将lane维的连续、快速访存，安排给系数较低的矩阵，可以降低访存开销。
+
+
+### 定量分析
+![[fig6_why_swap.png]]
