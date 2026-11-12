@@ -186,8 +186,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -221,7 +221,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6b5c96e10c5dcc43",
+  "active": "15b3a311753d7b99",
   "lastOpenFiles": [
     "fig6_why_swap.png",
     "02_Area/GPU架构与CUDA编程/LeetGPU刷题记录.md",
