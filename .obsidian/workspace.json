@@ -11,14 +11,15 @@
             "id": "18c21de81ac8b39a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "02_Area/GPU架构与CUDA编程/00 认识GPU.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "00 认识GPU"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Index)"
             }
           }
         ]
@@ -221,10 +222,20 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a5d80df8b76f40d3",
+  "active": "18c21de81ac8b39a",
   "lastOpenFiles": [
     "02_Area/GPU架构与CUDA编程/01 GPU编程入门.md",
     "02_Area/GPU架构与CUDA编程/00 认识GPU.md",
+    "fig6_why_swap.png",
+    "Excalidraw/Drawing 2026-11-11 03.03.06.svg",
+    "Excalidraw/Drawing 2026-11-11 03.03.06.md",
+    "Excalidraw/Drawing 2026-11-11 02.25.57.svg",
+    "Excalidraw/Drawing 2026-11-11 02.25.57.md",
+    "Assets/Pasted image 20261108153426.png",
+    "Assets/Pasted image 20261106150135.png",
+    "Assets/Pasted image 20261106150131.png",
+    "02_Area/GPU架构与CUDA编程/LeetGPU刷题记录.md",
+    "02_Area/GPU架构与CUDA编程/00 基础概念（20261104-自学1）.md",
     "02_Area/数字IC前端知识与技能/00 基础知识.md",
     "02_Area/数字IC前端知识与技能/00.1 AXI总线协议.md",
     "02_Area/数字IC前端知识与技能/01 基于Verilog或SystemVerilog的RTL设计.md",
@@ -239,28 +250,17 @@
     "Excalidraw/Drawing 2026-11-05 18.59.03.svg",
     "Pasted image 20261106150135.png",
     "Pasted image 20261106150131.png",
-    "Pasted image 20261105142151.png",
     "03_Resource/论文调研/KV压缩相关.md",
     "03_Resource/论文调研/lmx VLSI'26.md",
     "03_Resource/论文调研/RAG相关.md",
     "03_Resource/论文调研/VLM具身规划+RAG记忆.md",
     "PCB 测试板.md",
     "02_Area/芯片测试",
-    "Assets/Pasted image 20261104134823.png",
-    "Assets/Pasted image 20261104135019.png",
     "Excalidraw/Drawing 2026-11-04 17.26.57.md",
     "Excalidraw/Drawing 2026-11-04 14.26.48.md",
-    "Excalidraw/Drawing 2026-11-04 14.26.48.svg",
-    "Excalidraw/Drawing 2026-11-04 14.00.38.svg",
     "Excalidraw/Drawing 2026-11-04 14.00.38.md",
-    "Excalidraw/Drawing 2026-11-04 13.23.24.svg",
     "Excalidraw/Drawing 2026-11-04 13.36.25.md",
-    "Excalidraw/Drawing 2026-11-04 13.23.24.md",
     "Excalidraw",
-    "Excalidraw/Drawing 2026-08-25 16.43.54.excalidraw.md",
-    "Excalidraw/Drawing 2026-11-04 12.52.25.md",
-    "01_Project/智能计算系统编程与优化/20261028.md",
-    "README.md",
     "03_Resource/论文精读",
     "02_Area/具身",
     "03_Resource/论文调研",
