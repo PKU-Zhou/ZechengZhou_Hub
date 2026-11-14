@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "636772a44db0348d",
+        "id": "8882a195a5c5ea83",
         "type": "tabs",
         "children": [
           {
-            "id": "18c21de81ac8b39a",
+            "id": "6d89a59e478fc2c8",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Index)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -222,7 +217,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "18c21de81ac8b39a",
+  "active": "15b3a311753d7b99",
   "lastOpenFiles": [
     "02_Area/GPU架构与CUDA编程/01 GPU编程入门.md",
     "02_Area/GPU架构与CUDA编程/00 认识GPU.md",
