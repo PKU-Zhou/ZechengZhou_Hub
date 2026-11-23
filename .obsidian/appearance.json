@@ -2,7 +2,7 @@
   "accentColor": "",
   "baseFontSizeAction": false,
   "interfaceFontFamily": "Microsoft YaHei UI",
-  "textFontFamily": "宋体,Arial",
+  "textFontFamily": "Arial,微软雅黑,宋体,黑体",
   "monospaceFontFamily": "Cascadia Mono",
   "showRibbon": true
 }
